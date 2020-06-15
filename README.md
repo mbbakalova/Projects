@@ -1,2 +1,2 @@
-# Basic-Stats
-Basic Statistics features with examples
+# Project
+Personal Projects
